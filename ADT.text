@@ -1,0 +1,7 @@
+***************** ABSTRACT DATA TYPE *******************
+
+We know that we have in-built data types such as => int , float , char etc. In which we want to perform some operations like => addition , substraction , multiplication. But there might be a situation in which we want to perform some operations for our user defined data types which we have defined.To resolve this problem , we create a data structure along with some basic operations and data structure which are not in-built are known as abstract data type.
+
+Abstract data type is a type (or class) for objects whose behaviour is defined by a set of values and a set of operations.The definition of ADT only mentions that what operations are to be performed but not how these operations will be implemented.
+
+The process of providing only essentials and hiding the details is known as abstraction.
