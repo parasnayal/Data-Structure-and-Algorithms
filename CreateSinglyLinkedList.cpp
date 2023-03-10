@@ -31,7 +31,7 @@ void linked_list ::create_list()
     int data, choice = 1;
     while (choice)
     {
-        cout << "Enter the data" << endl;
+        cout << "Enter the data in the linked list" << endl;
         cin >> data;
         newNode = new Node(data);
         if (head == NULL)
